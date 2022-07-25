@@ -1,0 +1,22 @@
+{
+  "name": "express-ci-test",
+  "version": "1.0.0",
+  "description": "AWS ECR로 CI하기 위한 테스트 리포지토리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookapps-jhlee11/express-ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookapps-jhlee11/express-ci-test/issues"
+  },
+  "homepage": "https://github.com/cookapps-jhlee11/express-ci-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
