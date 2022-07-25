@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  ECR_REPOSITORY: 060897572144.dkr.ecr.ap-northeast-2.amazonaws.com
+  ECR_REPOSITORY: express-ci-test
 
 jobs:
   build:
